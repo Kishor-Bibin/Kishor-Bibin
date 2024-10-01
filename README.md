@@ -7,7 +7,7 @@ I'm an aspiring Solutions Architect with a passion for Business Analysis. I'm on
 
 🔧 Tech & Solutions: I'm fascinated by how technology can drive innovation. From web development (HTML, CSS, JavaScript) to system architecture, I enjoy building solutions that make a difference.
 
-🔍 Learning & Growing: Constantly learning new skills to stay ahead, whether it's cloud computing, data analytics, or machine learning integration.
+🔍 Learning & Growing: Constantly learning new skills to stay ahead, whether it's cloud computing, data analytics, or ML integration.
 
 🎯 Goal: To be at the intersection of technology and business, crafting solutions that solve real-world problems while driving business success.
 
