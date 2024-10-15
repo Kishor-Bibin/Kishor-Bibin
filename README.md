@@ -1,7 +1,7 @@
 ## Hi I'm Kishor👋
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
-I'm an aspiring Solutions Architect with a passion for Business Analysis. I'm on a journey to merge both worlds, combining technical expertise with strategic thinking to deliver impactful solutions. Here's a bit more about me:
+I'm an aspiring Solutions Architect with a passion for Data Science. I'm on a journey to merge both worlds, combining technical expertise with strategic thinking to deliver impactful solutions. Here's a bit more about me:
 
 🌐 Cloud Enthusiast: Currently diving deep into cloud technologies, working towards mastering AWS and other platforms to design scalable and efficient systems.
 
