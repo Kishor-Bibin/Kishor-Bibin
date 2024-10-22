@@ -20,5 +20,5 @@ Let’s connect and collaborate on projects that push the boundaries of technolo
 
 
 
-![Quote of the day](https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=default&layout=default&font=default&quoteType=quote-for-the-day)
+
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=default&layout=default&font=default&quoteType=random)
